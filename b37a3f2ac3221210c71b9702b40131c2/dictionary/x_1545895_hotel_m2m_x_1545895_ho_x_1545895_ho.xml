@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b6aa57e7c3a21210c71b9702b401315a" label="x_1545895_hotel_m2m_Reservations_Guests" max_length="40" name="x_1545895_hotel_m2m_x_1545895_ho_x_1545895_ho" type="collection">
+        <element attributes="encode_utf8=false" label="Guests" max_length="32" name="x_1545895_hotel_guest" reference="x_1545895_hotel_guest" type="reference"/>
+        <element attributes="encode_utf8=false" label="Reservations" max_length="32" name="x_1545895_hotel_reservation" reference="x_1545895_hotel_reservation" type="reference"/>
+        <element label="Lead" max_length="40" name="lead" type="boolean"/>
+        <index name="index">
+            <element name="x_1545895_hotel_guest"/>
+        </index>
+        <index name="index2">
+            <element name="x_1545895_hotel_reservation"/>
+        </index>
+    </element>
+</database>
