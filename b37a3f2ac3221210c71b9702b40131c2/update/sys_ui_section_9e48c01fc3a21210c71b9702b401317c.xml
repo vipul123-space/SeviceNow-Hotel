@@ -4,13 +4,13 @@
             <element>room</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-23 10:42:08</sys_created_on>
-            <sys_id>3b1f8c57c3e21210c71b9702b40131c2</sys_id>
+            <sys_created_on>2024-12-27 14:34:42</sys_created_on>
+            <sys_id>a5bae920c3b6d210c71b9702b40131fb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Check-in" display_value="Check-in" name="x_1545895_hotel_check_in" sys_domain="global" view="Default view">9e48c01fc3a21210c71b9702b401317c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-23 10:42:08</sys_updated_on>
+            <sys_updated_on>2024-12-27 14:34:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>room.floor</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-23 10:42:08</sys_created_on>
-            <sys_id>f31f8c57c3e21210c71b9702b40131c3</sys_id>
+            <sys_created_on>2024-12-27 14:34:42</sys_created_on>
+            <sys_id>a1bae920c3b6d210c71b9702b40131fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Check-in" display_value="Check-in" name="x_1545895_hotel_check_in" sys_domain="global" view="Default view">9e48c01fc3a21210c71b9702b401317c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-23 10:42:08</sys_updated_on>
+            <sys_updated_on>2024-12-27 14:34:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,27 +32,41 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-23 10:42:08</sys_created_on>
-            <sys_id>7b1f8c57c3e21210c71b9702b40131c3</sys_id>
+            <sys_created_on>2024-12-27 14:34:42</sys_created_on>
+            <sys_id>29bae920c3b6d210c71b9702b40131fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Check-in" display_value="Check-in" name="x_1545895_hotel_check_in" sys_domain="global" view="Default view">9e48c01fc3a21210c71b9702b401317c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-23 10:42:08</sys_updated_on>
+            <sys_updated_on>2024-12-27 14:34:42</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>guest</element>
+            <element>date</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-23 10:42:08</sys_created_on>
-            <sys_id>ff1f8c57c3e21210c71b9702b40131c3</sys_id>
+            <sys_created_on>2024-12-27 14:34:42</sys_created_on>
+            <sys_id>adbae920c3b6d210c71b9702b40131fc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Check-in" display_value="Check-in" name="x_1545895_hotel_check_in" sys_domain="global" view="Default view">9e48c01fc3a21210c71b9702b401317c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-23 10:42:08</sys_updated_on>
+            <sys_updated_on>2024-12-27 14:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>guest</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-27 14:34:42</sys_created_on>
+            <sys_id>25bae920c3b6d210c71b9702b40131fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Check-in" display_value="Check-in" name="x_1545895_hotel_check_in" sys_domain="global" view="Default view">9e48c01fc3a21210c71b9702b401317c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-27 14:34:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

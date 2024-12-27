@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>comments</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-27 15:12:34</sys_created_on>
+        <sys_data_policy display_value="Must have a comment if in past">6123792cc3b6d210c71b9702b40131d6</sys_data_policy>
+        <sys_id>d9537d2cc3b6d210c71b9702b40131eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>comments</sys_name>
+        <sys_package display_value="Hotel" source="x_1545895_hotel">b37a3f2ac3221210c71b9702b40131c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">b37a3f2ac3221210c71b9702b40131c2</sys_scope>
+        <sys_update_name>sys_data_policy_rule_d9537d2cc3b6d210c71b9702b40131eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-27 15:12:34</sys_updated_on>
+        <table>x_1545895_hotel_check_in</table>
+    </sys_data_policy_rule>
+</record_update>

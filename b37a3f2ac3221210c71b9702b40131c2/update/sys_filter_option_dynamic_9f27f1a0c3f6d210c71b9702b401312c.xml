@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_filter_option_dynamic">
+    <sys_filter_option_dynamic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_for_default>false</available_for_default>
+        <available_for_filter>true</available_for_filter>
+        <available_for_ref_qual>false</available_for_ref_qual>
+        <field_type display_value="Reference">52a227c1bf3320001875647fcf07396a</field_type>
+        <label>Me</label>
+        <order/>
+        <roles/>
+        <script>gs.getUserID()</script>
+        <script_reference_id/>
+        <script_reference_table/>
+        <sys_class_name>sys_filter_option_dynamic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-27 15:29:56</sys_created_on>
+        <sys_id>9f27f1a0c3f6d210c71b9702b401312c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Me</sys_name>
+        <sys_package display_value="Hotel" source="x_1545895_hotel">b37a3f2ac3221210c71b9702b40131c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">b37a3f2ac3221210c71b9702b40131c2</sys_scope>
+        <sys_update_name>sys_filter_option_dynamic_9f27f1a0c3f6d210c71b9702b401312c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-27 15:29:56</sys_updated_on>
+        <table>x_1545895_hotel_guest</table>
+        <table_containing_filter/>
+    </sys_filter_option_dynamic>
+</record_update>
